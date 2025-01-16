@@ -1,0 +1,2 @@
+# Prevent line normalization on .sh files
+*.sh text eol=lf
