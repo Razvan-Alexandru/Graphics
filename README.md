@@ -1,3 +1,26 @@
+# Solar System Project
+Welcome to our captivating journey through the cosmos! Step into the realm of celestial wonders with our groundbreaking OpenGL simulation of the solar system, meticulously crafted to abide by the timeless laws of orbital mechanics, courtesy of Kepler himself.
+
+Prepare to be enthralled as you witness the dance of planets in real-time, each meticulously textured to mirror its real-life counterpart. With the power to adjust simulation speeds, you'll uncover the intricacies of planetary motion as never before.
+
+Delve deeper into our cosmic odyssey, where each planet and the radiant Sun await your exploration. Immerse yourself in their allure as you uncover fascinating tidbits and essential facts, from atmospheric compositions to orbital eccentricities.
+
+Join us as we embark on this extraordinary voyage through the cosmos, where science meets spectacle and curiosity knows no bounds. Prepare to be mesmerized, for in the vastness of space, wonders await at every turn.
+
+![image021](https://github.com/user-attachments/assets/8c659148-3a28-4c13-8cc0-8a894653bd1b)
+![image023](https://github.com/user-attachments/assets/e4141fba-626f-46ae-b545-af67316d3ed5)
+![image025](https://github.com/user-attachments/assets/75018fcd-4870-4ac4-939a-b1aef61bdf7f)
+![image029](https://github.com/user-attachments/assets/23a0b01d-20e9-425c-8b59-36da439e4acc)
+![image027](https://github.com/user-attachments/assets/b668a5f0-0e6e-4ba2-a95c-276b3ce2054b)
+
+# Raytracer
+The raytracer is an assignment where the user can provide the information of a scene in a JSON file. The raytracer will output an image of the scene by drawing and castong rays. 
+
+The raytracer supports direct illumination, global illumination, area lighting, anti-aliasing and ambiant, diffuse and specular light.
+
+![raytracer1](https://github.com/user-attachments/assets/98fbc6e4-b688-4c26-b073-cffd880dbaf4)
+![raytracer2](https://github.com/user-attachments/assets/aa7083dc-011d-41a1-9c33-4d2192805bfb)
+
 # COMP371 Docker Image
 
 ## Overview
